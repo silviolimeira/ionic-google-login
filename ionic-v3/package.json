@@ -63,12 +63,12 @@
             "locator": "ios"
         }
     ],
-    "description": "ionic2GoogleLogin: An Ionic project",
+    "description": "myApp: An Ionic project",
     "cordova": {
         "plugins": {
             "cordova-plugin-nativestorage": {},
             "cordova-plugin-googleplus": {
-                "REVERSED_CLIENT_ID": "com.googleusercontent.apps.1091419544653-va8ba1ceogvil0370fr34qj861u6tkh2"
+                "REVERSED_CLIENT_ID": "com.googleusercontent.apps.52411444122-j6d58li1bcj1qoii98ot9ggm5fvohlv6"
             },
             "cordova-plugin-console": {},
             "cordova-plugin-device": {},
